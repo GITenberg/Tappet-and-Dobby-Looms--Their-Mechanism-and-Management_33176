@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36249'
     url: http://www.gutenberg.org/2009/agents/36249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33176#Tappet-and-Dobby-Looms--Their-Mechanism-and-Management
 gutenberg_bookshelf:
 - Technology
 - Manufacturing
