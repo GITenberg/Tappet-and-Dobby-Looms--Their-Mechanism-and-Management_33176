@@ -1,0 +1,28 @@
+_repo: Tappet-and-Dobby-Looms--Their-Mechanism-and-Management_33176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Thomas
+    gutenberg_agent_id: '36249'
+    url: http://www.gutenberg.org/2009/agents/36249
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33176'
+  lccn: '25009110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Looms'
+- !lcc 'TS'
+title: 'Tappet and Dobby Looms: Their Mechanism and Management'
+url: http://www.gutenberg.org/ebooks/33176
